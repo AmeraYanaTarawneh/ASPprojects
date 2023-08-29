@@ -1,2 +1,2 @@
 # ASPprojects
-New Project is available ฅʕ•̫͡•ʔฅ
+Soon new project on Web API will be available ฅʕ•̫͡•ʔฅ
